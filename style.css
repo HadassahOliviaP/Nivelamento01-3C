@@ -28,6 +28,13 @@ body {
     border-color: black;
     border-width: 5px;
 }
+#B2 {
+    width: 60%;
+    margin-left: 20%;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
 .B2 {
     background-color: rgb(132, 83, 179);
     border-style: solid;
@@ -36,6 +43,39 @@ body {
 }
 .F-22 {
     background-color: rgb(132, 83, 179);
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+#F-22 {
+    width: 60%;
+    margin-left: 20%;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+.A-12 {
+    background-color: rgb(132, 83, 179);
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+#A-12 {
+    width: 60%;
+    margin-left: 20%;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+.Blackbird {
+    background-color: rgb(132, 83, 179);
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+#Blackbird {
+    width: 60%;
+    margin-left: 20%;
     border-style: solid;
     border-color: black;
     border-width: 5px;
