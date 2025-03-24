@@ -13,9 +13,7 @@ body {
     margin-left: 20%;
     margin-right: 20%;
 }
-#F-14 {
-    width: 60%;
-}
+
 .imagem1 {
     background-color: rgb(132, 83, 179);
     border-style: solid;
@@ -23,20 +21,15 @@ body {
     border-width: 5px;
 }
 #F-14 {
+    width: 60%;
     margin-left: 20%;
     border-style: solid;
     border-color: black;
     border-width: 5px;
 }
-#B2 {
+#B-2 {
     width: 300%;
     margin-left: 20%;
-    border-style: solid;
-    border-color: black;
-    border-width: 5px;
-}
-.B-2 {
-    background-color: rgb(132, 83, 179);
     border-style: solid;
     border-color: black;
     border-width: 5px;
