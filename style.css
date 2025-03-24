@@ -28,13 +28,13 @@ body {
     border-width: 5px;
 }
 #B-2 {
-    margin-left: 40%;
+    margin-left: 50%;
     border-style: solid;
     border-color: black;
     border-width: 5px;
 }
+#B2 { width: 180%; }
 .B2 {
-    width: 180%;
     background-color: rgb(132, 83, 179);
     border-style: solid;
     border-color: black;
