@@ -35,6 +35,12 @@ body {
     border-color: black;
     border-width: 5px;
 }
+.B-2 {
+    background-color: rgb(132, 83, 179);
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
 .B2 {
     background-color: rgb(132, 83, 179);
     border-style: solid;
@@ -74,7 +80,7 @@ body {
     border-width: 5px;
 }
 #Blackbird {
-    width: 30%;
+    width: 20%;
     margin-left: 20%;
     border-style: solid;
     border-color: black;
