@@ -28,6 +28,7 @@ body {
     border-width: 5px;
 }
 #B-2 {
+    width: 180%;
     margin-left: 50%;
     border-style: solid;
     border-color: black;
